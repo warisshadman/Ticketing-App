@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+$imgpath: "./assets/images";
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  // background: url(#{$imgpath}/bgg.jpg);
+  // background-size: 100% 100%;
+}
+
+.form-100 {
+  width: 100%;
+}
